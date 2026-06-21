@@ -26,7 +26,7 @@ Despite growing interest in electric vehicles, adoption rates vary significantly
 
 ## Key Findings
 
-- Government incentive awareness was significantly higher among respondents with high EV adoption likelihood, highlighting the importance of policy awareness.
+- Contrary to expectation, government incentive awareness showed the weakest association with EV adoption compared to behavioral factors. EV      knowledge (4.27 → 7.87) and range anxiety (7.76 → 4.14) were far stronger predictors than policy awareness, suggesting education and            infrastructure confidence matter more than subsidy awareness.
 - Range anxiety was one of the strongest barriers to EV adoption.
 - EV knowledge strongly influenced adoption likelihood.
 - Environmental awareness was highly correlated with adoption.
